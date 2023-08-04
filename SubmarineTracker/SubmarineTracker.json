@@ -1,9 +1,9 @@
 {
-    "Author": "Infi",
-    "Name": "Submarine Tracker",
+    "Author": "KPhelMadd",
+    "Name": "Submarine Tracker plus FFXIV",
     "Punchline": "You do not talk about Fight Club, same for Submarines",
     "Description": "Simple and Easy\n+ Tracker for current builds, routes and times \n+ Builder to improve, solve builds and optimize EXP\n+ Configurable Notification for return/repair \n+ Helper with useful information\n+ Custom loot overview with history and export\n+ Supports multiple FCs",
-    "InternalName": "SubmarineTracker",
+    "InternalName": "SubmarineTrackerPlus",
     "ApplicableVersion": "any",
     "Tags": [
         "Submarine",

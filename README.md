@@ -1,3 +1,8 @@
+# Development Effort / Not for Public Use
+This fork is looking at adding an integration point between Submarine Tracker
+and FFXIV Capitalist
+
+
 # Submarine Tracker
 
 Simple and Easy  
